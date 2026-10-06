@@ -1,0 +1,5 @@
+FUNCIONALIDADES DO SISTEMA ESCOLAR
+
+1. Cadastrar alunos
+2. Consultar alunos cadastrados
+3. Editar informações dos alunos

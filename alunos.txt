@@ -1,0 +1,7 @@
+CADASTRO DE ALUNOS
+
+1. João Silva - 16 anos
+2. Maria Oliveira - 15 anos
+3. Pedro Santos - 17 anos
+4. Ana Souza - 16 anos
+5. Lucas Ferreira - 15 anos
