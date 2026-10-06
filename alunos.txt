@@ -5,3 +5,4 @@ CADASTRO DE ALUNOS
 3. Pedro Santos - 17 anos
 4. Ana Souza - 16 anos
 5. Lucas Ferreira - 15 anos
+6. Beatriz Almeida - 16 anos
